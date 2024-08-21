@@ -15,7 +15,7 @@
                 :src="image"
                 v-if="image"
                 alt="YesNoImg"
-                class="w-52 h-52 object-cover rounded-md"
+                class="w-52 h-52 object-cover rounded-md aspect-video"
             />
         </div>
     </div>
